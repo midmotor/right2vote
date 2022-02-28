@@ -1,3 +1,3 @@
 # right2vote
 
-Merhaba yalan dunya
+Gas Fee has been reduced with improvements, (but there is not much difference).
